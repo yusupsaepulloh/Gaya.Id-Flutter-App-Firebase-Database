@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053271767994",
+    "project_id": "gayaid",
+    "storage_bucket": "gayaid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053271767994:android:6e6dcb43ac95c39d767b83",
+        "android_client_info": {
+          "package_name": "com.example.gayaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuj1lP_RZizcopoGQS4YYH0XGpTvnP_ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053271767994:android:7a0ff5816ffb4bce767b83",
+        "android_client_info": {
+          "package_name": "com.gaya.id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuj1lP_RZizcopoGQS4YYH0XGpTvnP_ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
