@@ -1,16 +1,9 @@
-# gayaid
+# 📱 GAYA.ID – Mobile Fashion E-Commerce App
+GAYA.ID adalah aplikasi e-commerce fashion berbasis mobile yang dirancang untuk memudahkan pengguna dalam melakukan pencarian, pemilihan, dan pengelolaan pembelian produk fashion secara digital. Aplikasi ini menyediakan katalog produk yang interaktif, fitur pencarian dan kategori, serta sistem keranjang belanja yang memungkinkan pengguna mengatur jumlah produk dan melihat total harga secara otomatis.
 
-A new Flutter project.
+Aplikasi ini juga dilengkapi dengan fitur manajemen produk khusus untuk administrator, seperti menambahkan, mengedit, dan menghapus data produk. Seluruh data produk dan keranjang belanja disimpan dan dikelola menggunakan Firebase (Cloud Firestore) sebagai basis data utama, sehingga data dapat disinkronkan secara real-time dan ditampilkan secara dinamis tanpa memerlukan pengelolaan server manual.
 
-## Getting Started
+Dengan antarmuka yang sederhana dan modern, GAYA.ID dirancang sebagai prototype aplikasi e-commerce fashion yang dapat digunakan untuk kebutuhan pembelajaran, tugas kuliah, maupun dasar pengembangan aplikasi bisnis berbasis mobile di masa mendatang.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Link Pengujian Aplikasi
+https://drive.google.com/file/d/1JdraS36pi2hH7WN2DNkcP_xg6ENnMti3/view?usp=sharing 
