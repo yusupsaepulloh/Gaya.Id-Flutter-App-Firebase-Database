@@ -148,7 +148,7 @@ class _ProductFormScreenState extends State<ProductFormScreen> {
                 const SizedBox(height: 12),
 
                 DropdownButtonFormField<String>(
-                  value: allCategories.contains(_category)
+                  initialValue: allCategories.contains(_category)
                       ? _category
                       : allCategories.first,
                   decoration: const InputDecoration(

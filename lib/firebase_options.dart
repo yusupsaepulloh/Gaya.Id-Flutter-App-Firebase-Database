@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'gayaid.firebasestorage.app',
     measurementId: 'G-VCX3BDDMYN',
   );
+
 }
